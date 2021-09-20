@@ -18,8 +18,8 @@
 - Proyectos Realizados: 
 - JAVASCRIPT y FETCH. 
 -                     1)Web dinámica Pet shop donde la misma disponía de api externa, se utilizó HTML5, CSS3, Boostrap y FETCH, BOOSTRAP, JAVASCRIPT. 
--                     2)Web dinámica Home-Banking, se utilizó HTT5, CSS3, BOOSTRAP, JS, JQUERY, AXIOS, AJAX, JSON, AGILE, VUE.js, JAVA, SPRINGBOOT, GRADLE, MYSQL, XML, GIT, GITHUB,HEROKU. 
--                     3)Web dinámica Lollapalooza con tienda, se utilizó HTT5, CSS3, BOOSTRAP, JS, JQUERY, AXIOS, AJAX, JSON, AGILE, VUE.js, JAVA, SPRINGBOOT, GRADLE, MYSQL, XML, GIT, GITHUB,HEROKU.
+-                     2)Web dinámica Home-Banking, se utilizó HTML5, CSS3, BOOSTRAP, JS, JQUERY, AXIOS, AJAX, JSON, AGILE, VUE.js, JAVA, SPRINGBOOT, GRADLE, MYSQL, XML, GIT, GITHUB,HEROKU. 
+-                     3)Web dinámica Lollapalooza con tienda, se utilizó HTML5, CSS3, BOOSTRAP, JS, JQUERY, AXIOS, AJAX, JSON, AGILE, VUE.js, JAVA, SPRINGBOOT, GRADLE, MYSQL, XML, GIT, GITHUB,HEROKU.
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
