@@ -7,7 +7,8 @@
 
 - 🏦 Mi primer proyecto Java && Vue.js [Homebanking](https://frontend-homebanking.herokuapp.com/web/index.html)
 
-- 👨‍💻 Todos mis proyectos estan disponibles en:<--[https://rafael-cuvillier.netlify.app/](https://rafael-cuvillier.netlify.app/)-->
+- 🎭Proyecto consumiendo la API de Rick And Morty [Rick Ad Morty](https://rick-and-morty-rafaelcuvillier.netlify.app/)
+- 👨‍💻 Todos mis proyectos estan disponibles en:<--[Portfolio web](https://rafael-cuvillier.netlify.app/)-->
 
 - 💬 Preguntame Sobre **Java, Spring, Vue.js, Javascript, HTML5, CSS3...**
 
